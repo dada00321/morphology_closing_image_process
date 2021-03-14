@@ -3,10 +3,10 @@
 
 
 原圖:
-https://imgur.com/a/VoJr6lX
+![image](https://imgur.com/a/VoJr6lX)
 
 solution 1 的 結果圖:
-https://imgur.com/a/j9jwGL2
+![image](https://imgur.com/a/j9jwGL2)
 
 solution 2 的 結果圖:
-https://imgur.com/a/TlZiWjb
+![image](https://imgur.com/a/TlZiWjb)
