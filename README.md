@@ -1,6 +1,8 @@
 # morphology_closing_image_process
 運用 CV 中形態學的 閉運算 方法，將被塗鴉很多線條的圖片在盡可能不失真之下去除噪聲
 
+(註: 為保護個人隱私，眼睛部分加上馬賽克處理)
+
 原圖
 ---
 ![image](https://i.imgur.com/6RTIaGX.png)
