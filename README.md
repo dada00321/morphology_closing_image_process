@@ -5,7 +5,7 @@ test:
 ![image](https://pic.17qq.com/uploads/hwetestcqx.jpeg)
 
 原圖:
-![image](https://imgur.com/a/VoJr6lX)
+![image](https://i.imgur.com/lQoFf9g.png)
 
 solution 1 的 結果圖:
 ![image](https://imgur.com/a/j9jwGL2)
