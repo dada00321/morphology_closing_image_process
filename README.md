@@ -3,7 +3,7 @@
 
 原圖
 ---
-![image](https://i.imgur.com/lQoFf9g.png)
+![image](https://i.imgur.com/6RTIaGX.png)
 
 solution 1 的 結果圖
 ---
